@@ -9,25 +9,25 @@ This project involves the analysis of Uber ride-sharing data using Pandas, seabo
 
 The dataset used for this analysis can be found on [TLC](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page). It consists of a CSV file containing the following columns:
 
-- VendorID: ID of the vendor
-- tpep_pickup_datetime: Pickup timestamp
-- tpep_dropoff_datetime: Dropoff timestamp
-- passenger_count: Number of passengers
-- trip_distance: Distance of the trip
-- pickup_longitude: Longitude of pickup location
-- pickup_latitude: Latitude of pickup location
-- RatecodeID: Rate code for the trip
-- store_and_fwd_flag: Flag indicating if the trip was stored and forwarded
-- dropoff_longitude: Longitude of dropoff location
-- dropoff_latitude: Latitude of dropoff location
-- payment_type: Payment method used
-- fare_amount: Fare amount
-- extra: Extra charges
-- mta_tax: MTA tax
-- tip_amount: Tip amount
-- tolls_amount: Toll amount
-- improvement_surcharge: Improvement surcharge
-- total_amount: Total fare amount
+- **VendorID:** ID of the vendor
+- **tpep_pickup_datetime:** Pickup timestamp
+- **tpep_dropoff_datetime:** Dropoff timestamp
+- **passenger_count:** Number of passengers
+- **trip_distance:** Distance of the trip
+- **pickup_longitude:** Longitude of pickup location
+- **pickup_latitude:** Latitude of pickup location
+- **RatecodeID:** Rate code for the trip
+- **store_and_fwd_flag:** Flag indicating if the trip was stored and forwarded
+- **dropoff_longitude:** Longitude of dropoff location
+- **dropoff_latitude:** Latitude of dropoff location
+- **payment_type**: Payment method used
+- **fare_amount:** Fare amount
+- **extra:** Extra charges
+- **mta_tax:** MTA tax
+- **tip_amount:** Tip amount
+- **tolls_amount:** Toll amount
+- **improvement_surcharge:** Improvement surcharge
+- **total_amount:** Total fare amount
 
 ## Analysis Steps
 
