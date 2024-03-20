@@ -61,13 +61,13 @@ The dataset used for this analysis can be found on [TLC](https://www.nyc.gov/sit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yashvisharma1204/uber-data-analysis.git
+   git clone https://github.com/yashvisharma1204/Uber_rides-data_analysis.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd uber-data-analysis
+   cd uUber_rides-data_analysis
    ```
 
 3. Install the required dependencies:
